@@ -2,10 +2,10 @@
 # <p align="center" > <h1 align="center" > Hi There, Fancy seeing you here! <img src="https://user-images.githubusercontent.com/21185758/90338872-fd1c7d00-dfec-11ea-96f1-ca4245a05836.gif" width="30px"></h1></p>
   
   <p align="center" >
-I'm Dheeraj, A Passionate Software Engineer with thorough knowledge of Full stack Web Development. Have hands-on experience in Machine Learning, Deep Learning and Data Science. 😀 </br> 
-a tech enthusiast passionate about creating technology to elevate people,
+I'm Dheeraj, A Passionate Data Scientist. Have hands-on experience in Statistics, Data Analytics, Machine Learning, Deep Learning. 😀 </br> 
+A tech enthusiast working with Tiger analytics,
  </br> aiming to write clean, maintainable, and reliable Code.</br> 
-Some technologies I enjoy working with include</br> Computer Vision, Data Science & Data Analytics, Web Development, Python, C++</br>
+Some technologies I enjoy working with include</br> Computer Vision, Data Science & Data Analytics</br>
 Have a look at my repositories and let's get in touch 😉 </br>
 </p>
 
